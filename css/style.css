@@ -125,13 +125,12 @@ h1{
 
 .onde{
 
-    margin-bottom: -1rem;
+    display: block;
 
 }
 
 .onde-down {
 
-    margin-bottom: -1rem;
     transform: rotate(180deg);
 
 }
