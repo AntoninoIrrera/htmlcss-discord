@@ -120,6 +120,19 @@ h1{
     margin: 0 auto;
 }
 
+.onde{
+
+    margin-bottom: -1rem;
+
+}
+
+.onde-down {
+
+    margin-bottom: -1rem;
+    transform: rotate(180deg);
+
+}
+
 .contenuto2 {
 
     display: flex;
